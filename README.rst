@@ -23,13 +23,13 @@ You can install the package directly from GitHub:
 
 .. code-block:: bash
 
-    pip install git+https://github.com/yourusername/bayesian-rule-set.git
+    pip install git+https://github.com/bethCoderNewbie/bayesianRuleSet-2025.git
 
 Or install in development mode:
 
 .. code-block:: bash
 
-    git clone https://github.com/yourusername/bayesian-rule-set.git
+    git clone hhttps://github.com/bethCoderNewbie/bayesianRuleSet-2025.git
     cd bayesian-rule-set
     pip install -e .
 
